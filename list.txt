@@ -16,3 +16,4 @@ c.microsoft.com
 crl.microsoft.com
 sls.microsoft.com
 update.microsoft.com
+dl.delivery.mp.microsoft.com
