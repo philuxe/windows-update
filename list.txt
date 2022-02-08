@@ -1,0 +1,7 @@
+windowsupdate.microsoft.com
+download.windowsupdate.com
+download.microsoft.com
+download.windowsupdate.com
+wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
